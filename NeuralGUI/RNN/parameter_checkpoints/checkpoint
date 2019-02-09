@@ -1,0 +1,2 @@
+model_checkpoint_path: "D:\\Projects\\NeuralGUI\\RNN\\parameter_checkpoints\\epoch_4.ckpt"
+all_model_checkpoint_paths: "D:\\Projects\\NeuralGUI\\RNN\\parameter_checkpoints\\epoch_4.ckpt"
